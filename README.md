@@ -92,7 +92,6 @@ Deliverables: Model performance comparison, recommendations for deployment
 ## 📌 Notes
 - Datasets are either included if public or linked to their source.
 - All notebooks are exported to HTML for easy viewing without Jupyter.
-- Each assignment folder contains its **README.md** for specific details.
 
 ---
 
